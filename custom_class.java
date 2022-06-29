@@ -18,7 +18,7 @@ class custom_class{
         Employee ruban = new Employee(); // Instantiating a new Employee Object
         Employee john = new Employee(); // Instantiating a new Employee Object
 
-        // Setting Attributes for Harry
+        // Setting Attributes for Ruban
         ruban.id = 12;
         ruban.salary = 34;
         ruban.name = "Ruban Pathak";
