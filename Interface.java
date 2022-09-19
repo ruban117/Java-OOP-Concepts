@@ -78,7 +78,7 @@ class BBA extends Student{
     private int bba;
 }
 
-public class Inheritance2 {
+public class Interface{
     public static void main(String[] args) {
         BCA ruban = new BCA();
         System.out.println("Enter The Details For Admitting BCA Department:::");
